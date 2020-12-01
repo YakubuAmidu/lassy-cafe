@@ -32,22 +32,21 @@ body{
   text-align: center;
   padding-left: 20px;
   padding-right: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  padding-bottom: 20px;
 }
 
-.about{
-  margin-bottom: 30px;
-  text-transform: uppercase;
-}
-
-.header-title2{
-  font-weight: bold;
-  font-size: 25px;
+.menu{
+  margin-bottom: 20px;
 }
 
 .p2{
   text-align: justify;
+}
+
+.food1{
+  width: 30%;
+  margin: 6px;
+  border-radius: 10px;
 }
 
 video{
