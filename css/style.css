@@ -1,5 +1,6 @@
 body{
   color: #777;
+  font-size: 20px;
 }
 
 .fa-coffee{
@@ -31,12 +32,18 @@ body{
 #About{
   text-align: center;
   padding-left: 20px;
+  padding-top: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
 }
 
 .menu{
   margin-bottom: 20px;
+}
+
+.about-headline{
+  font-size: 30px;
+  font-weight: bolder;
 }
 
 .p2{
