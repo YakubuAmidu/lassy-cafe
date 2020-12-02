@@ -177,6 +177,10 @@ video{
 
 .Chefone{
   width: 100%;
+}
+
+.Chefone:hover{
+  width: 100%;
   box-shadow: 0px 2px 2px 2px;
 }
 
