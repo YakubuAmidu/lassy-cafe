@@ -109,23 +109,24 @@ video{
 }
 
 
-.Top-menu{
+.top-menu{
   text-align: center;
 }
 
-.Menu-headline{
+.menu-headline{
   font-size: 30px;
   font-weight: bolder;
   color: #000;
+  font-family: 'Pirata One', cursive;
 }
 
-.Menu-images{
+.menu-images{
   position: relative;
   margin-bottom: 20px;
   width: 100%;
 }
 
-.Imagethree{
+.coffee-image{
   display: block;
   width: 100%;
   height: auto;
@@ -143,7 +144,7 @@ video{
  transition: .5s ease;
 }
 
-.Menu-images:hover .overlay{
+.menu-images:hover .overlay{
   height: 100%;
 }
 
@@ -159,11 +160,11 @@ video{
   text-align: center;
 }
 
-.Menu-title{
+.menu-title{
  margin-bottom: 30px;
 }
 
-.Menu-headline{
+.menu-headline{
   margin-right: 20px;
 }
 
