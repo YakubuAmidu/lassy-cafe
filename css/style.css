@@ -67,8 +67,39 @@ video{
 
 .Yellow{
   background-color: gold;
+  margin-bottom: 30px;
   text-align: center;
+  padding: 20px 20px;
 }
+
+.fa-trophy{
+  font-size: 50px;
+  color: #fff;
+}
+
+.fa-trophy:hover{
+  color: orangered;
+}
+
+.fa-check-circle{
+  font-size: 50px;
+  color: #fff;
+}
+
+.fa-check-circle:hover{
+  color: orangered;
+}
+
+
+.fa-thumbs-up{
+  font-size: 50px;
+  color: #fff;
+}
+
+.fa-thumbs-up:hover{
+  color: orangered;
+}
+
 
 #Menu{
   text-align: center;
