@@ -24,12 +24,17 @@ body{
     margin-top: 20px;
 }
 
-.header-title{
-  font-size: 60px;
+.header-title-one{
+  font-size: 80px;
+  font-family: 'Bebas Neue', cursive;
   text-transform: uppercase;
 }
 
-#About{
+.header-p1{
+  font-size: 30px;
+}
+
+#about{
   text-align: center;
   padding-left: 20px;
   padding-top: 20px;
@@ -41,14 +46,11 @@ h1{
   color: red;
 }
 
-.headline{
-  margin-bottom: 20px;
-}
-
 .about-headline{
   font-size: 30px;
   font-weight: bolder;
   color: #000;
+  font-family: 'Pirata One', cursive;
 }
 
 .p2{
@@ -65,7 +67,7 @@ video{
   width: 100%;
 }
 
-.Yellow{
+.yellow-section{
   background-color: gold;
   margin-bottom: 30px;
   text-align: center;
@@ -100,7 +102,7 @@ video{
   color: orangered;
 }
 
-.Icon-p3{
+.p3{
   text-align: justify;
   margin-top: 20px;
   word-spacing: 0px;
@@ -205,4 +207,8 @@ video{
 
 .Reserve{
   font-size: 50px;
+}
+
+.Social-media{
+  padding-bottom: 30px;
 }
