@@ -157,3 +157,11 @@ video{
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+.Menu-title{
+ margin-bottom: 30px;
+}
+
+.Menu-headline{
+  margin-right: 20px;
+}
