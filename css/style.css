@@ -230,23 +230,20 @@ video{
   margin-top: 60px;
 }
 
-.fa-home{
-  margin-right: 20px;
-}
-
-.fa-phone{
-  margin-right: 20px;
-}
-
-.fa-globe{
-  margin-right: 20px;
-}
-
-.fa-envelope-open{
+.fa-home, .fa-phone, .f-globe, .fa-envelope-open{
   margin-right: 20px;
 }
 
 
 .Social-media{
   padding-bottom: 30px;
+}
+
+h2{
+  margin-bottom: 30px;
+}
+
+.fa-facebook, .fa-twitter, .fa-instagram{
+  font-size: 40px;
+  margin-right: 10px;
 }
