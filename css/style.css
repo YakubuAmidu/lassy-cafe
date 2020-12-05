@@ -1,6 +1,6 @@
 body{
   color: #777;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .fa-coffee{
@@ -8,8 +8,12 @@ body{
   margin-right: 60px;
 }
 
+.navbar-toggler-icon{
+  font-size: 40px;
+}
+
 .nav-link{
-  font-size: 20px;
+  font-size: 25px;
   text-transform: uppercase;
 }
 
